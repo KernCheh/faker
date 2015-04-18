@@ -1,4 +1,4 @@
-en-CA:
+lng_en-CA:
   faker:
     address:
       postcode: /[A-VX-Y][0-9][A-CEJ-NPR-TV-Z] ?[0-9][A-CEJ-NPR-TV-Z][0-9]/

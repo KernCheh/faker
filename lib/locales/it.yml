@@ -1,4 +1,4 @@
-it:
+lng_it:
   faker:
     address:
       city_prefix: [San, Borgo, Sesto, Quarto, Settimo]

@@ -1,4 +1,4 @@
-ja:
+lng_ja:
   faker:
     address:
       postcode: ["###-####"]

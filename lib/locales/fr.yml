@@ -1,4 +1,4 @@
-fr:
+lng_fr:
   faker:
     address:
       building_number: ['####', '###', '##', '#']

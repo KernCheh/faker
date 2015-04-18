@@ -1,4 +1,4 @@
-de:
+lng_de:
   faker:
     address:
       city_prefix: [Nord, Ost, West, Süd, Neu, Alt, Bad]

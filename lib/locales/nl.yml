@@ -1,4 +1,4 @@
-nl:
+lng_nl:
   faker:
     address:
       city_prefix: [Noord, Oost, West, Zuid, Nieuw, Oud]

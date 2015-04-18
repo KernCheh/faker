@@ -1,5 +1,5 @@
 # encoding: UTF-8
-vi:
+lng_vi:
   faker:
     address:
       city_root: ["Bắc Giang", "Bắc Kạn", "Bắc Ninh", "Cao Bằng", "Điện Biên", "Hà Giang", "Hà Nam", "Hà Tây",
